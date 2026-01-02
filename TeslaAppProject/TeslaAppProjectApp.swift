@@ -1,10 +1,3 @@
-//
-//  TeslaAppProjectApp.swift
-//  TeslaAppProject
-//
-//  Created by Илья Ануфриев on 29.12.2025.
-//
-
 import SwiftUI
 
 @main
